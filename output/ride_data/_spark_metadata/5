@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-DineshReddyKandimalla/output/ride_data/part-00000-db9a2d48-08db-4f2b-972a-47808d6b8b9f-c000.csv","size":360,"isDir":false,"modificationTime":1744398310188,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-DineshReddyKandimalla/output/ride_data/part-00001-858f656b-7f3b-49be-8855-3ba2f1035d1c-c000.csv","size":360,"isDir":false,"modificationTime":1744398310183,"blockReplication":1,"blockSize":33554432,"action":"add"}
